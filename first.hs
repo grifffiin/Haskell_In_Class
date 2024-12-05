@@ -1,1 +1,0 @@
-deleteMe = putStrLn "Hello! Add your code in this file. Feel free to delete this line!"
